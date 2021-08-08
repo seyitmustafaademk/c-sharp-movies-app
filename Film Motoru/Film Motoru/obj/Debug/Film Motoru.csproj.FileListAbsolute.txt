@@ -1,0 +1,31 @@
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Film Motoru.exe.config
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Film Motoru.exe
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Film Motoru.pdb
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\MetroFramework.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Google.Protobuf.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Zstandard.Net.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\Renci.SshNet.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\System.Buffers.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\System.Memory.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film Motoru.exe.config
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.AdminPanel.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.Homepage.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.Login.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.Profile.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.Properties.Resources.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.FilmCard.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film_Motoru.View.resources
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film Motoru.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film Motoru.csproj.CopyComplete
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film Motoru.exe
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film Motoru.pdb
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\obj\Debug\Film Motoru.csprojAssemblyReference.cache
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\MySql.Data.dll
+C:\Users\MUSTAFA\source\repos\Film Motoru\Film Motoru\bin\Debug\MySql.Data.xml
